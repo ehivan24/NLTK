@@ -61,7 +61,7 @@ but I'd recommend using it as a supplement to something at a higher level (perha
 Review3 = ''' gross , bad, garbage'''
 
 
-Review4 = '''  '''
+Review4 = ''' good, happy, garbage, gross  '''
 
 
 
@@ -140,7 +140,7 @@ def testing(review):
     
 
 loadWordsArrays()
-testing(Review3)    
+testing(Review4)
 
 
 
